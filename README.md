@@ -19,6 +19,9 @@ Dependencies:
 <img width="871" alt="screen shot 2018-04-05 at 12 52 44 pm" src="https://user-images.githubusercontent.com/7304644/38350183-65f72522-38d4-11e8-8351-eaeeca4d7dd5.png">
 
 
+## FUTURE WORKS
+
+These initial results demonstrate that provided a large training dataset (approx. 5 times more than current ) with good quality labeled images and intensive training time, YOLO v2 net can accurately detect palm trees in our project area. As for now, the training spends more time per epoch resizing than training due to large resolution images, therefore, to increase performance the future prospects of our work would focus on cutting each images into 36 different images making 666x500 pixel blocks. 
 
 
 
